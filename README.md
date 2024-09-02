@@ -31,6 +31,7 @@ O arquivo `Main.java` contém o ponto de entrada para o programa. Ele fornece um
 ### Dependências
 Este projeto não possui dependências externas além do JDK para compilar e executar os arquivos Java.
 
+### Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas no repositório.
 
 
