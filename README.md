@@ -33,9 +33,7 @@ Este projeto não possui dependências externas além do JDK para compilar e exe
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas no repositório.
 
-### Licença
 
 
-Este README fornece uma visão geral do projeto e como utilizá-lo. Você pode ajustá-lo conforme necessário antes de adicioná-lo ao seu repositório Git. &#8203;:contentReference[oaicite:0]{index=0}&#8203;
 
 
