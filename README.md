@@ -34,6 +34,9 @@ Este projeto não possui dependências externas além do JDK para compilar e exe
 ### Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas no repositório.
 
+### Link para o vídeo testando as funcionalidades do código
+
+https://www.youtube.com/watch?v=b98gd7KF8kY&t=3s
 
 
 
